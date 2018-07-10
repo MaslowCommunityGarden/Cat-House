@@ -1,5 +1,5 @@
 {
 "ModerationLevel": "communityManaged",
 "Facilitator": "",
-"Category": "other"
+"Category": "furniture"
 }
